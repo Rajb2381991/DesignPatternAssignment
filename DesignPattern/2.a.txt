@@ -1,0 +1,14 @@
+Clearly, we can have different configurations of PCs, for example a tower PC and a desktop PC. Furthermore, each type of PC may require specific components. We may have, for instance, specific cabinets and chassis for tower PCs and desktop PCs. Consequently, we assume that we will have a family of different products. This is illustrated in the next class hierarchies for cabinet and chassis. 
+
+There are actually two concerns here. First, we would like to ensure that a computer configuration always consists of parts that fit together. Second, we would not like to be bothered with details of the creation of computers.
+
+a) Which design pattern is applicable for this problem?
+b) Extend the class diagram of assignment 1 so that it incorporates the selected design pattern.
+   Give the necessary attributes and operations. 
+c) Can you extend the class diagram so that you can introduce a new type of computer configuration, e.g. a notebook? 
+
+
+Ans : (a) : Abstract Factory Design Pattern can be used for the given problem.
+      
+      (c) : Yes, We can extend the class diagram so that we can introduce a new type of computer configuration.
+	

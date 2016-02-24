@@ -1,0 +1,9 @@
+Assume that we would like to model a personal computer (PC). A PC consists of a cabinet, which includes a chassis. 
+A chassis on its turn is composed of a bus, a floppy disk drive, a memory unit, a CPU, and a power supply. 
+A bus incorporates a network card. We would like to treat all the equipment components in a uniform way. 
+The basic operations needed are netPrice and powerConsumption, which return the net price and the power consumption of each component respectively. In addition, each component may have its own specific semantics.
+
+a) Which design pattern can we apply for this problem?
+b) Give the class diagram for this problem. 
+
+Ans : (a) : Factory Design Pattern Can Be Used for given problem.

@@ -1,0 +1,5 @@
+In the future it is expected that class ComputerEquipment will be extended with additional operations. The present structure of a computer equipment is assumed not to change. It is also not desired to ‘pollute’ all the existing component classes with new operations. 
+
+a) Which design pattern would be suitable for this problem?
+
+Ans : Decorate Design Pattern is suitable for this given problem.

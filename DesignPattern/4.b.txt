@@ -1,0 +1,10 @@
+1=>  Create Sorter Abstract Class With Abstract Methods as GetSortedList() and
+     DisplayList() Which Uses The Interface Chassis.
+
+2=>  Chassis Interface Will Implemented With GetPrice() and GetPowerComsumption()
+     Methods For Investigating Equipment Properties.
+
+3=> Chassis Interface Implemented By Bus , CPU , FloopyDrive Classes.
+
+4=> Finally The Abstract Class Sorter Will Provide The Sorted List Of Equipements
+    With Defined Algorithm.

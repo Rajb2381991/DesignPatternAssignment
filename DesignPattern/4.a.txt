@@ -1,0 +1,9 @@
+A journal on PCs would like to investigate some properties of different PCs, e.g. the price, performance, etc. The results need to be sorted in a list. There are several sorting algorithms for sorting all the PCs depending on specific characteristics.  These sorting algorithms behave differently with respect to the time and space performance. Therefore, it is required to select and switch to a different sorting algorithm at run-time.
+
+a) Which design pattern can be applied to fulfil these requirements?
+b) Give a short pseudo-formal implementation which shows the switching between different sorting algorithms. 
+   Assume that you have already a list in which the performance values for each PC are given. 
+c) How could you incorporate a new sorting algorithm in your class diagram? 
+
+
+Ans : (a) : Strategy design pattern cab be applied to fullfill the given requirements.
